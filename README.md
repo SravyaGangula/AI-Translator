@@ -1,5 +1,5 @@
 ## Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
+## Do check out my output : https://huggingface.co/spaces/SravyaNaveen/My_Translator
 ## 📌 Goal:
 To build and deploy an AI-powered translator that converts English text into Spanish and Telugu, using the Hugging Face Transformers model (facebook/m2m100_418M).
 
