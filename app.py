@@ -2,7 +2,7 @@ import gradio as gr
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
 
 # Load model
-model_name = "facebook/m2m100_256M"
+model_name = "facebook/m2m100_418M"  # Fixed model name
 tokenizer = M2M100Tokenizer.from_pretrained(model_name)
 model = M2M100ForConditionalGeneration.from_pretrained(model_name)
 
