@@ -39,3 +39,11 @@ To build and deploy an AI-powered translator that converts English text into Spa
  ## Conclusion
 Successfully built and deployed an AI-powered English to Spanish & Telugu Translator!
 This project leveraged Hugging Face Transformers, Gradio, GitHub, and Hugging Face Spaces for free hosting.
+
+## 🎯 Summary
+Step	                    Action
+✅ Step 1	Install dependencies (pip install transformers gradio torch)
+✅ Step 2	Write app.py for translation logic
+✅ Step 3	Deploy on Hugging Face (git push -u huggingface main)
+✅ Step 4	Upload to GitHub (git push -u github main)
+✅ Step 5	Access live app on Hugging Face
